@@ -23,6 +23,8 @@ o	How many neurons, layers, and activation functions did you select for your neu
 
 o	TensorFlow Karas Sequential model was used as the Neural Network Model. In optimized model layer1 started with 80 neurons and for layer 2, 40 neurons were included in respectively and activation functions were set to ‘relu’,and ’sigmoid’ for output layer.
 
+![Deliverable2_attempt1.png](Images/Deliverable2_attempt1.png)
+
 o	In second attempt, hidden layers increased to 4 layers instead of 2 and layer 1started with 110 neurons; layer 2 with 80 neurons; layer 3 with 40 neurons and layer 4 with 20 neurons. The activation functions selected were ‘relu’ (for layer1& layer2);’sigmoid’ (for layer 3 & layer4); ‘linear’ for output layer.
 
 o	In third attempt, layer1 started with 81 neurons and for layer 2, 54 neurons and layer 3 with 26 neurons were included in respectively. From there, the relu and sigmoid activation functions seemed to be better fit for layers; so set layer 1,layer 2,layer 3 to ‘relu’,’sigmoid’ for output layer.
