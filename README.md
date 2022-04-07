@@ -33,6 +33,7 @@ o	In third attempt, layer1 started with 81 neurons and for layer 2, 54 neurons a
 
 ![Deliverable2_attempt3.png](Images/Deliverable2_attempt3.png)
 
+
 o	Were you able to achieve the target model performance?
 o	The target for the model mentioned was 75% , but the best the model could produce was 72.8%.
 
