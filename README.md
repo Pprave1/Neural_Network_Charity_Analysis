@@ -27,10 +27,30 @@ o	TensorFlow Karas Sequential model was used as the Neural Network Model. In opt
 
 o	In second attempt, hidden layers increased to 4 layers instead of 2 and layer 1started with 110 neurons; layer 2 with 80 neurons; layer 3 with 40 neurons and layer 4 with 20 neurons. The activation functions selected were ‘relu’ (for layer1& layer2);’sigmoid’ (for layer 3 & layer4); ‘linear’ for output layer.
 
+![Deliverable2_attempt2.png](Images/Deliverable2_attempt2.png)
+
 o	In third attempt, layer1 started with 81 neurons and for layer 2, 54 neurons and layer 3 with 26 neurons were included in respectively. From there, the relu and sigmoid activation functions seemed to be better fit for layers; so set layer 1,layer 2,layer 3 to ‘relu’,’sigmoid’ for output layer.
+
+![Deliverable2_attempt3.png](Images/Deliverable2_attempt3.png)
 
 o	Were you able to achieve the target model performance?
 o	The target for the model mentioned was 75% , but the best the model could produce was 72.8%.
+
+  #### Attempt 1
+  
+  ![Deliverable2_attempt1_output1.png](Images/Deliverable2_attempt1_output.png)
+  
+ #### Attempt 2
+ 
+  
+  ![Deliverable2_attempt2._output.png](Images/Deliverable2_attempt2._output.png)
+  
+  
+   
+ #### Attempt 3
+  
+    ![Deliverable2_attempt3_output.png](Images/Deliverable2_attempt3_outputt.png)
+  
 
 o	What steps did you take to try and increase model performance?
 
