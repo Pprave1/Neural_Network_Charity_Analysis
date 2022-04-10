@@ -9,12 +9,13 @@ The purpose of the project is to help a foundation to predict where to make inve
 o	What variable(s) are considered the target(s) for your model?
 o	The target variable for the model was the “IS_SUCCESSFUL.” Column. 
 
-o	What variable(s) are considered to be the features for your model?
+o	What variable(s) are considered to be the features for your model?/
 o	The initial model considered following columns as features:
-o	EIN, NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT, IS_SUCCESSFUL.
+o	EIN, NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT, IS_SUCCESSFUL./
 ![data_df.png](Images/data_df.png)
 
-o	What variable(s) are neither targets nor features, and should be removed from the input data?
+o	What variable(s) are neither targets nor features, and should be removed from the input data?/
+
 o	The EIN and NAME columns were removed because those columns will not increase the accuracy of the model.
 
 ### Compiling, Training, and Evaluating the Model
