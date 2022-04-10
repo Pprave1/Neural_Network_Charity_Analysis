@@ -58,8 +58,8 @@ o	The target for the model mentioned was 75% , but the best the model could prod
  
 #### Resubmit final result
 
-  ![Resubmit_five_epoch](https://user-images.githubusercontent.com/92768044/162640597-71c76101-281f-4a2e-bb85-207fab1f2db8.png)
 
+![Final_resubmit_result](https://user-images.githubusercontent.com/92768044/162640673-2c48da99-492f-40d1-8085-b00346fa2cba.png)
 
 
   
