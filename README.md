@@ -52,6 +52,9 @@ o	The target for the model mentioned was 75% , but the best the model could prod
  #### Attempt 3
   
    ![Deliverable2_attempt3_output.png](Images/Deliverable2_attempt3_output.png)
+ 
+#### Resubmit final result
+![Resubmit_five_epoch.png](Images/Resubmit_five_epocht.png)
   
 
 o	What steps did you take to try and increase model performance?
