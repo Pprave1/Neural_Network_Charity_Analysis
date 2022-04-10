@@ -58,10 +58,10 @@ o	The target for the model mentioned was 75% , but the best the model could prod
  
 #### Resubmit final result
 
-![Resubmit_five_epoch](https://user-images.githubusercontent.com/92768044/162640597-71c76101-281f-4a2e-bb85-207fab1f2db8.png)
+  ![Resubmit_five_epoch](https://user-images.githubusercontent.com/92768044/162640597-71c76101-281f-4a2e-bb85-207fab1f2db8.png)
 
 
-  ![Resubmit_five_epoch.png](Images/Resubmit_five_epocht.png)
+
   
 
 o	What steps did you take to try and increase model performance?
