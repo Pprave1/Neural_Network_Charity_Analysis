@@ -9,12 +9,13 @@ The purpose of the project is to help a foundation to predict where to make inve
 o	What variable(s) are considered the target(s) for your model?
 o	The target variable for the model was the “IS_SUCCESSFUL.” Column. 
 
-o	What variable(s) are considered to be the features for your model?/
+o	What variable(s) are considered to be the features for your model?\
 o	The initial model considered following columns as features:
-o	EIN, NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT, IS_SUCCESSFUL./
+o	EIN, NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT, IS_SUCCESSFUL.\
+
 ![data_df.png](Images/data_df.png)
 
-o	What variable(s) are neither targets nor features, and should be removed from the input data?/
+o	What variable(s) are neither targets nor features, and should be removed from the input data?\
 
 o	The EIN and NAME columns were removed because those columns will not increase the accuracy of the model.
 
@@ -24,7 +25,8 @@ o	How many neurons, layers, and activation functions did you select for your neu
 
 o	TensorFlow Karas Sequential model was used as the Neural Network Model. In optimized model layer1 started with 80 neurons and for layer 2, 40 neurons were included in respectively and activation functions were set to ‘relu’,and ’sigmoid’ for output layer.
 
-![Deliverable2_attempt1.png](Images/Deliverable2_attempt1.png)
+![Deliverable2_attempt1.png](Images/Deliverable2_attempt1.png)\
+
 ![Resubmit_five_epoch.png](Images/Resubmit_five_epoch.png)
 
 o	In second attempt, hidden layers increased to 4 layers instead of 2 and layer 1started with 110 neurons; layer 2 with 80 neurons; layer 3 with 40 neurons and layer 4 with 20 neurons. The activation functions selected were ‘relu’ (for layer1& layer2);’sigmoid’ (for layer 3 & layer4); ‘linear’ for output layer.
