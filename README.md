@@ -27,6 +27,9 @@ o	TensorFlow Karas Sequential model was used as the Neural Network Model. In opt
 
 ![Deliverable2_attempt1.png](Images/Deliverable2_attempt1.png)
 
+#### Resubmit
+ Resubmitted the missing codes for a callback that saves the model's weights every 5 epochs and rename folders with resubmit tag.
+
 ![Resubmit_five_epoch.png](Images/Resubmit_five_epoch.png)
 
 o	In second attempt, hidden layers increased to 4 layers instead of 2 and layer 1started with 110 neurons; layer 2 with 80 neurons; layer 3 with 40 neurons and layer 4 with 20 neurons. The activation functions selected were ‘relu’ (for layer1& layer2);’sigmoid’ (for layer 3 & layer4); ‘linear’ for output layer.
@@ -62,7 +65,6 @@ o	The target for the model mentioned was 75% , but the best the model could prod
 ![Final_resubmit_result](https://user-images.githubusercontent.com/92768044/162640673-2c48da99-492f-40d1-8085-b00346fa2cba.png)
 
 
-  
 
 o	What steps did you take to try and increase model performance?
 
@@ -75,5 +77,9 @@ o	Increased the number of neurons and layers.
 o	The linear activation was tried, not improved the accuracy.
 
 ## Summary
+o	The best accuracy model produced was 73% using relu and sigmoid activation functions. 
 
-  The best accuracy model produced was 73% using relu and sigmoid activation functions. 
+o	Since it is a classification problem and so it is a regression problem. So, we can use Logistic Regression as an alternative model.
+
+
+  
